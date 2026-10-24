@@ -1,0 +1,12 @@
+format: jb-book
+root: intro
+
+parts:
+  - caption: Milestone 1 — Crawling
+    chapters:
+      - file: milestone1/01-methodology
+      - file: milestone1/02-statistics
+
+  - caption: Milestone 2 — Parsing
+    chapters:
+      - file: milestone2/reserved
