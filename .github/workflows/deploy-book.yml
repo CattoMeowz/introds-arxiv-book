@@ -1,4 +1,4 @@
-name: deploy-book
+﻿name: deploy-book
 
 on:
   push:
@@ -38,7 +38,7 @@ jobs:
 
       - name: Build Jupyter Book
         run: |
-          jupyter-book build .
+          jupyter-book build . --all
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

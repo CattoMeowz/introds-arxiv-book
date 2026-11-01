@@ -1,0 +1,26 @@
+1. Dung lượng trung bình mỗi bản ghi (tính trên 7,607 bản ghi)
+
+	Bytes	MiB
+Trước khi bỏ figure	4,582,667	4.370
+Sau khi bỏ figure	250,528	0.239
+
+Dung lượng trung bình giảm khoảng 94.5% sau khi bỏ figure.
+
+2. Tổng dung lượng output cuối (tex + bib)
+
+1,905,763,674 bytes, tương đương 1817.48 MiB (khoảng 1.775 GiB).
+
+Tổng dung lượng corpus hiện tại: 1889.22 MiB. (Số này gồm cả các file ngoài tex/bib.)
+
+3. Tóm tắt validation
+
+Validation	Kết quả
+Trùng (arxiv_id, version)	0
+Đủ output cho version thành công	7,606/7,606
+Có _EMPTY.json	1/1
+File .tex	29,524
+File .bib	5,663
+File ảnh trong output	0
+Trạng thái	7,606 ok, 1 empty
+
+Lưu ý: logs/extract.csv có một version không có TeX là 2504.16018 v1, lý do no_tex_in_archive. Bản ghi này có status empty và đã có _EMPTY.json tương ứng.
