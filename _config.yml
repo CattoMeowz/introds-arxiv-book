@@ -15,6 +15,6 @@ html:
   home_page_in_navbar: true
 
 repository:
-  url: "https://github.com/CattoMeowz/introds-arxiv-book"
+  url: "https://github.com/introds-arxiv-book/introds-arxiv-book"
   path_to_book: "."
   branch: main
