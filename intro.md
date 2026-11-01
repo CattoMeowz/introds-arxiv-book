@@ -27,11 +27,11 @@ Quy trình được chia thành 3 giai đoạn chính (Milestones):
 
 | MSSV | Họ và tên | Trách nhiệm chính trong đồ án | Phân hệ phụ trách |
 |---|---|---|---|
-| **24120053** | Nguyễn Ngọc Hoàng | Nhóm trưởng, Entry Discovery & Pipeline Integration | Module A3 (OAI-PMH & Kaggle Validation) |
-| **24120144** | Nguyễn Minh Thư | Full-text Source Download | Module A1 (Tối ưu hiệu năng tải) |
-| **24120152** | Trần Thanh Tú | Extraction & Corpus Builder | Module A2 (Data Validation Suite) |
-| **24120177** | Bùi Hữu Duy | Semantic Scholar Reference Crawling | Module C (Tiền xử lý bắc cầu M2/M3) |
-| **24120153** | Đặng Anh Tuấn | Performance Benchmarking & Jupyter Book Documentation | Module B (Phân tích thực nghiệm mở rộng) |
+| **24120053** | Đặng Ngọc Hoàng | Nhóm trưởng, Entry Discovery & Pipeline Integration | Module A3 (OAI-PMH & Kaggle Validation) |
+| **24120144** | Dương Ngọc Minh Thư | Full-text Source Download | Module A1 (Tối ưu hiệu năng tải) |
+| **24120152** | Trần Ngọc Thanh Tú | Extraction & Corpus Builder | Module A2 (Data Validation Suite) |
+| **24120177** | Cáp Hửu Duy | Semantic Scholar Reference Crawling | Module C (Tiền xử lý bắc cầu M2/M3) |
+| **24120153** | Nguyễn Lê Anh Tuấn | Performance Benchmarking & Jupyter Book Documentation | Module B (Phân tích thực nghiệm mở rộng) |
 
 ---
 
